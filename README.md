@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋Heylo, Welcome to my profile
+# Heylo, Welcome to my profile
 
 
 ## 🌐 Socials:
