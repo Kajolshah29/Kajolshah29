@@ -1,4 +1,4 @@
-Hey there!
+#Hey there!
 
 # 💫 About Me:
 A Tech Enthusiast<br>🧐 I’m currently in my Second Year of college and passionately exploring different domains such as UI/UX design and Data Analytics.<br>🔭 I’m currently working on Full Stack Development and side-by-side Preparing DSA.<br>👯 I’m looking to collaborate on UI/UX design and web development projects.<br>👀  I’m interested in learning about different types of software development and new programming languages.
