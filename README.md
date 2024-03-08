@@ -24,6 +24,8 @@ A Tech Enthusiast<br>🧐 I’m currently in my Second Year of college and passi
 ![](https://github-contributor-stats.vercel.app/api?username=Kajolshah29&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kajolshah29&icon=0&color=2)](https://visitcount.itsvg.in)
+<div id="Profile_Views" align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kajoshah29&style=flat-square&color=yellow" alt=""/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
