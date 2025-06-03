@@ -1,7 +1,3 @@
-Sure! Here's a **unique yet simple** version of your GitHub `README.md` that feels personal, professional, and easy to read — while still showing off your enthusiasm and skills:
-
----
-
 # Hey there! 👋
 
 ### I'm Kajol Shah – a curious mind in tech, always building, designing, and learning.
